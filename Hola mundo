@@ -1,6 +1,6 @@
 <?php
 
   echo "Hola mundo";
-  echo "Ingreso Linea 1";
+  echo "Ingreso Linea 2---";
   
 ?>
